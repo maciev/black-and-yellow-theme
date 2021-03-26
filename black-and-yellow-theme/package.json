@@ -1,0 +1,21 @@
+{
+    "name": "black-and-yellow-theme",
+    "displayName": "Black and Yellow Theme",
+    "description": "black and yellow",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black and Yellow Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black and Yellow Theme-color-theme.json"
+            }
+        ]
+    }
+}
